@@ -101,7 +101,6 @@ The "Clear entire cart" button removes all items instantly with no warning or un
 - Next.js 15 (App Router)
 - TypeScript
 - Redux Toolkit
-- Tailwind CSS
 - localStorage (manual persistence)
 
 ---
